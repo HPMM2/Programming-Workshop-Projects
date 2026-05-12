@@ -17,21 +17,16 @@ Collection of projects and exercises from my Programming Workshop course at UANL
 
 ## 📁 Contents
 
-### 🔹 Basic Exercises
+### 🔹 Exercises
 
 | # | Project | Description |
 |---|---------|-------------|
 | 01 | **Triangle Area** | Calculates the area of a triangle given its base and height |
-
-### 🔹 FOR Exercises
-
-| # | Project | Description |
-|---|---------|-------------|
-| 01 | **Multiplication Table** | Generates the multiplication table of a positive integer |
-| 02 | **Number Classifier** | Counts how many of N numbers are positive, negative or zero |
-| 03 | **Circus Tickets** | Calculates ticket sales and totals across 6 venue sections |
-| 04 | **Wine Production** | Calculates total wine production per type and annual total |
-| 05 | **Equation Validator** | Finds positive values of T, P and R satisfying 7T⁴ - 6P³ + 12R⁵ < 5850 |
+| 02 | **Multiplication Table** | Generates the multiplication table of a positive integer |
+| 03 | **Number Classifier** | Counts how many of N numbers are positive, negative or zero |
+| 04 | **Circus Tickets** | Calculates ticket sales and totals across 6 venue sections |
+| 05 | **Wine Production** | Calculates total wine production per type and annual total |
+| 06 | **Equation Validator** | Finds positive values of T, P and R satisfying 7T⁴ - 6P³ + 12R⁵ < 5850 |
 
 ### 🔹 Arrays & Statistics
 
